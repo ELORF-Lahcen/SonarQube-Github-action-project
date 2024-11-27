@@ -14,7 +14,7 @@ async function getProjectsByVisibility(visibility) {
     }
 
     const data = await response.json();
-    // data = 'violation';
+    data = 'violation';
     // data = 'violation';
     // data = 'violation';
     // data = 'violation';

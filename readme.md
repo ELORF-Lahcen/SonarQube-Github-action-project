@@ -13,3 +13,5 @@
     - **Value:** Your public ngrok address or SonarQube server URL.
 # sonar-test-pro
 # sonar-test-project
+# sonar-test
+# next-repo-sonar
