@@ -11,3 +11,5 @@
 1. In the same **Settings > Secrets and variables > Actions** section, click **New repository variable** to add the required variable:
   - **Name:** `SONAR_HOST_URL`
     - **Value:** Your public ngrok address or SonarQube server URL.
+# sonar-test-pro
+# sonar-test-project
